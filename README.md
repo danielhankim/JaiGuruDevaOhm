@@ -1,2 +1,11 @@
-# JaiGuruDevaOhm
-Source code for exhibition &lt;Jai Guru Deva Ohm>
+# Jai Guru Deva Ohm
+
+## Synopsis
+
+
+
+
+## Repository
+
+
+
