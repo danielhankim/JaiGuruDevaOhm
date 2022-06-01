@@ -14,17 +14,21 @@
 ### 2. Map the Universe
 김민석 연구자는 지구 자기장 데이터를 수집하고 이를 음원으로 변환시켜 매우 짧은 길이의 음악적 세그먼트를 얻습니다.
 김성하 작가는 이 세그먼트를 통하여 새로운 음악을 준비하였습니다.
-관람자는 관람자는 뇌파 수집 장치를 착용한 후 이 음원을 청취합니다.
+관람자는 뇌파 수집 장치를 착용한 후 이 음원을 청취합니다.
 
 ### 3. Map the Brain
 김민석 연구자는 자신의 뇌 데이터를 수집하고 이를 음원으로 변환시킵니다.
 관람자는 관람자는 뇌파 수집 장치를 착용한 후 이 음원을 청취합니다.
 
 ### 4. Welcome to the Lab
-"밤의 카니발_revised", "Map the Universe", "Map the Brain"을 통하여
+"밤의 카니발_revised", "Map the Universe", "Map the Brain"을 통하여 수집된 데이터가 각각 세 가지 방식으로 실시간으로 화면에 송출됩니다.
+송출된 화면은 관람자의 시각을 자극하는 새로운 자극원이 되어 뇌파에 영향을 끼칩니다.
 
 ## 구현 핵심 장비
 Raspberry Pi 4 Model B 4G 3ea  
 MindWave Mobile 2 3ea  
 
-## 감사의 말씀
+## Reference
+MindWave Mobile 2와 Raspberry Pi 사이의 통신을 통한 데이터 수집 및 시각화를 위하여 다음과 같은 자료를 참조하였습니다.
+https://youtu.be/jXMd5aNIIoQ  
+https://github.com/crystoll/projectillithid
